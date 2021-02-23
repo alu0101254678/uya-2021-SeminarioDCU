@@ -233,8 +233,38 @@ Agenda.
 
 ![Informacion personaje 3](img/personaje3.png)
 
+### Requisitos de la aplicación web:
 
+Los requisitos están clasificados en **orden decreciente de prioridad**.
 
+* La aplicación web debe incluir todos los eventos de aula virtual.
 
+* Organizar las actividades por asignatura para controlar la carga de trabajo de cada una.
 
+* La aplicación debe incluir un calendario que indique al usuario una aproximación a la hora de planificarse. 
 
+* Enviar notificaciones y recordatorios sobre eventos próximos.
+
+* Permitir establecer el horario lectivo y particular del usuario.
+
+* Incluir descansos en la aplicación web, es decir, que el usuario pueda planificar descansos según lo considere necesario.
+
+* Priorizar eventos próximos, como fechas de entrega de prácticas, exámenes parciales… Respecto a la importancia en la nota final, la fecha de entrega o la dificultad.
+
+* Reorganizar el tiempo en el caso de que no se cumpla la planificación esperada.
+
+* Controlador de estado de tareas.
+
+* Compatibilidad con los sistemas más utilizados.
+
+* Debe ser intuitiva y segura.
+
+* Permitir el bloqueo en el uso de algunas aplicaciones cuando el usuario lo considere necesario, como redes sociales o comunicaciones.
+
+* Permitir añadir las notas sobre los exámenes y tareas de las asignaturas a modo de seguimiento.
+
+* Apartado de objetivos.
+
+* Mostrar gráficas acerca de diferentes datos sobre el estudio.
+
+* Comparar la planificación del tiempo de estudio con la de otros usuarios.
