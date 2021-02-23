@@ -53,7 +53,7 @@ Finalmente, las aplicaciones para la gestión del tiempo de estudio más utiliza
 
 **Entrevista**
 
-En la entrevista preguntamos acerca del nombre, género, edad y curso de la persona para conocer al usuario y por otra parte, nos enfocamos en las preguntas relacionadas con la aplicación web.
+En la entrevista preguntamos acerca del **nombre, género, edad y curso** de la persona para conocer al usuario y por otra parte, nos enfocamos en las preguntas relacionadas con la aplicación web.
 
 A continuación se muestran las preguntas que hemos realizado y sus correspondientes respuestas:
 
@@ -88,7 +88,7 @@ A continuación se muestran las preguntas que hemos realizado y sus correspondie
 * Método pomodoro. Herramienta de gestión y organización del tiempo que dedicamos a cada tarea, bien sea a lo largo de la jornada laboral o durante el tiempo que dedicamos al estudio.
 * Lista sin prioridad para visualizar la cantidad de trabajos.
 * Lista con prioridad para establecer un orden en las tareas.
-Agenda.
+* Agenda.
 * School Planner. Aplicación que permite anotar tareas, exámenes y recordatorios.
 
 **¿Qué información estarías dispuesto a proporcionar a la aplicación para conseguir que esta gestione el tiempo? (Ejemplos: tiempo disponible para estudiar, horario de clase…)**
@@ -114,6 +114,8 @@ Agenda.
 ### Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.
 
 ### Perfil de usuario
+
+Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios de nuestra aplicación según sus características.
 
 **Perfil de usuario 1:**
 
