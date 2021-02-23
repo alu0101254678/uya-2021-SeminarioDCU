@@ -111,4 +111,123 @@ Agenda.
 * Acceso a Google Calendar.
 * Control del móvil sin acceso a datos personales.
 
+### Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.
+**Perfil de usuario**
+
+
+
+
+**Perfil de usuario 1:**
+
+* **Género:** La mayoría son hombres.
+* **Edad:** entre 18 y 20 años.
+* **Reside en Tenerife.**
+* **Estudios:** Grado en Ingeniería Informática.
+* **Curso:** 3º.
+* **Tienen asignaturas pendientes de otros cursos:** no.
+* **Tiempo diario de estudio:** entre 3 y 6 horas.
+* **Nivel de distracción al estudiar:** poco o mucho.
+* Siguen un horario de estudio.
+* Gestionan el tiempo de estudio adecuadamente.
+* Organizan el tiempo dedicado a cada asignatura.
+* Consideran que sus notas se corresponden con el tiempo de estudio.
+* **Uso de la aplicación web:** nada o poco.
+* **Dispositivos más utilizados para estudiar:** tablet y ordenador.
+* **Funcionalidades que incluirían en la aplicación:**
+  * Recibir notificaciones sobre eventos próximos.
+  * Priorizar las tareas de acuerdo a su importancia en la nota final y tiempo de entrega.
+  * Gestionar el uso del móvil cuando lo deseen.
+* Serían sinceros con la aplicación respecto al tiempo dedicado a estudiar.
+* Factores que tienen en cuenta cuando gestionan su tiempo de estudio:
+* Dificultad de la asignatura.
+* Fechas de entrega.
+* Tiempo necesario para realizar la tarea.
+* **Herramientas que utilizan para estudiar:**
+  * Agenda.
+  * Calendario.
+* Técnicas de estudio (esquemas, resúmenes, mapas mentales, Pomodoro, ...)
+* **Hobbies:**
+  * Videojuegos.
+  * Deporte.
+  * Series.
+
+
+**Perfil de usuario 2:**
+
+* **Género:** La mayoría son hombres.
+* **Edad:** mayor de 23 años.
+* **Reside en Tenerife.**
+* **Estudios:** Grado en Ingeniería Informática.
+* **Curso:** 3º y 4º.
+* **Tienen asignaturas pendientes de otros cursos:** sí.
+* **Tiempo diario de estudio:** entre 1 y 2 horas.
+* **Nivel de distracción al estudiar:** mucho o bastante.
+* No siguen un horario de estudio.
+* No gestionan el tiempo de estudio de manera adecuada.
+* No organizan el tiempo dedicado a cada asignatura.
+* Consideran que sus notas se corresponden con el tiempo de estudio.
+* **Uso de la aplicación web:** nada o poco.
+* Nunca le gustaría que la aplicación gestione el uso del móvil.
+* Si utilizaran una aplicación web de este tipo les gustaría que fuese intuitiva.
+* **Dispositivos más utilizados para estudiar:** móvil y ordenador.
+* **Funcionalidades que incluirían en la aplicación:**
+  * Que se pueda añadir los descansos.
+  * Que se incluya un horario con los exámenes.
+* Serían sinceros con la aplicación respecto al tiempo dedicado a estudiar.
+* **Factores que tienen en cuenta cuando gestionan su tiempo de estudio:**
+  * Dificultad de la asignatura.
+  * Tiempo disponible.
+  * Fechas de entrega.
+* **Herramientas que utilizan para estudiar:**
+  * Google Keep.
+  * Calendario.
+* **Hobbies:**
+  * Videojuegos.
+  * Mirar redes sociales.
+  * Ver series.
+  * Deporte.
+
+
+
+**Perfil de usuario 3:**
+
+* **Género:** La mayoría son hombres. 
+* **Edad:** entre 21 y 23 años.
+* **Reside en Tenerife.**
+* **Estudios:** Grado en Ingeniería Informática.
+* **Curso:**  2º y 3º 
+* **Tienen asignaturas pendientes de otros cursos:** si
+* **Tiempo diario de estudio:** entre 3 y 4 horas.
+* **Nivel de distracción al estudiar:** mucho.
+* Siguen un horario de estudio.
+* No gestionan el tiempo de estudio adecuadamente.
+* A veces organiza el tiempo dedicado a cada asignatura.
+* No consideran que sus notas se correspondan con el tiempo de estudio.
+* Les gustaría que la aplicación web gestione el uso del móvil cuando lo deseen.
+* **Uso de la aplicación web:** mucho o bastante.
+* **Dispositivos más utilizados para estudiar:** móvil y ordenador.
+* **Funcionalidades que incluirían en la aplicación:**
+    * Recibir recordatorios sobre las actividades próximas.
+    * Poder comparar la planificación del tiempo de estudio con la de otros usuarios.
+    * Que incorpore todos los eventos del aula virtual.
+* Serían sinceros con la aplicación respecto al tiempo dedicado a estudiar.
+* **Factores que tienen en cuenta cuando gestionan su tiempo de estudio:**
+    * Complejidad de la asignatura.
+* Proximidad de las entregas.
+* Tiempo necesario para realizar la tarea.
+* **Herramientas que utilizan para estudiar:**
+    * Agenda.
+    * Google Calendar.
+    * Aplicaciones para gestionar el tiempo de estudio (School Planner, any.do, Focus To-Do, …).
+* **Hobbies:**
+    * Mirar redes sociales.
+    * Deporte.
+    * Ver series.
+
+
+
+
+
+
+
 
