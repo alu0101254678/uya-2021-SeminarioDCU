@@ -112,10 +112,8 @@ Agenda.
 * Control del móvil sin acceso a datos personales.
 
 ### Definir en el documento los personajes y perfiles de usuario que vayan a usar tu producto y la especificación de requisitos.
-**Perfil de usuario**
 
-
-
+### Perfil de usuario
 
 **Perfil de usuario 1:**
 
@@ -150,7 +148,6 @@ Agenda.
   * Videojuegos.
   * Deporte.
   * Series.
-
 
 **Perfil de usuario 2:**
 
@@ -187,8 +184,6 @@ Agenda.
   * Ver series.
   * Deporte.
 
-
-
 **Perfil de usuario 3:**
 
 * **Género:** La mayoría son hombres. 
@@ -224,7 +219,19 @@ Agenda.
     * Deporte.
     * Ver series.
 
+### Personajes:
 
+**Personaje 1:**
+
+![Informacion personaje 1](img/personaje1.png)
+
+**Personaje 2:**
+
+![Informacion personaje 2](img/personaje2.png)
+
+**Personaje 3:**
+
+![Informacion personaje 3](img/personaje3.png)
 
 
 
