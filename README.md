@@ -51,3 +51,64 @@ En general las normas de privacidad de este tipo de aplicaciones no constituyen 
 
 Finalmente, las aplicaciones para la gestión del tiempo de estudio más utilizadas por los estudiantes son: Focus To-Do, Forest, School Planner y any.do.
 
+**Entrevista**
+
+En la entrevista preguntamos acerca del nombre, género, edad y curso de la persona para conocer al usuario y por otra parte, nos enfocamos en las preguntas relacionadas con la aplicación web.
+
+A continuación se muestran las preguntas que hemos realizado y sus correspondientes respuestas:
+
+**¿Qué factores tienes más en cuenta cuando gestionas tu tiempo de estudio? (Ejemplos: fechas, dificultad de la asignatura...)**
+
+* Dificultad del examen o de la tarea a realizar, también se tiene en cuenta la complejidad de la asignatura.
+* Fecha de entrega de los trabajos o del examen. 
+* Tiempo que se necesita para realizar la tarea o estudiar para el examen.
+* Prioridad respecto a otras asignaturas. 
+* Tiempo disponible para llevar a cabo el trabajo. 
+
+**¿Qué funcionalidades crees que debe tener una aplicación para gestionar el tiempo de estudio?**
+
+* Calendario (se incluyen exámenes) y horario.
+* Programar actividades y prioridad entre ellas.
+* Recordatorios (notificaciones sobre retrasos, horas de estudio, fechas próximas, las tareas a las que se dedica menos tiempo ...).
+* Organizar actividades por asignaturas para controlar la carga de trabajo de cada una de ellas.
+* Gestión de los tiempos de descanso y de estudio (para no sobrepasar un tiempo diario).
+* Bloqueo de aplicaciones del móvil para evitar distracciones.
+* Gráfico de horas empleadas por asignaturas.
+* Seguimiento y comparación del tiempo empleado frente al que se debería emplear.
+* Apartado que indiquen los objetivos.
+* Permitir escoger tanto la forma de trabajo, como el horario de estudio y los descansos.
+* Sugerencia de planificaciones.
+* Gestionar la distribución de horas a cada asignatura.
+
+**¿Qué cosas utilizas para gestionar tu tiempo de estudio?**
+
+* Google Calendar. Es una agenda y calendario electrónico.
+* Google Keep. Permite organizar la información personal a través de notas.
+* Notion. Aplicación para organizar cada semana, programar entregas de las asignaturas y si se han terminado antes de tiempo.
+* Método pomodoro. Herramienta de gestión y organización del tiempo que dedicamos a cada tarea, bien sea a lo largo de la jornada laboral o durante el tiempo que dedicamos al estudio.
+* Lista sin prioridad para visualizar la cantidad de trabajos.
+* Lista con prioridad para establecer un orden en las tareas.
+Agenda.
+* School Planner. Aplicación que permite anotar tareas, exámenes y recordatorios.
+
+**¿Qué información estarías dispuesto a proporcionar a la aplicación para conseguir que esta gestione el tiempo? (Ejemplos: tiempo disponible para estudiar, horario de clase…)**
+
+* Tiempo diario disponible para estudiar.
+* Horario lectivo.
+* Eventos que el usuario tenga en su calendario.
+* Cantidad de horas que son necesarias para estudiar una asignatura.
+* Tiempo dedicado al ocio, deportes, trabajo, descanso...
+* Dificultad de los exámenes y tareas. 
+* Toda la información que sea necesaria siempre y cuando se realice un tratamiento anónimo de los datos.
+* Tareas que están pendientes de realizar.
+* Correo electrónico para recibir notificaciones.
+* Fechas de los exámenes y tareas.
+
+**¿Qué acciones permitirías realizar a la aplicación sobre tus dispositivos para lograr que gestione tu tiempo de estudio? (Ejemplos: recibir notificaciones, control de uso de las aplicaciones…)**
+
+* Recibir notificaciones. 
+* Control de uso de aplicaciones indicadas por el usuario (bloqueo de aplicaciones).
+* Acceso a Google Calendar.
+* Control del móvil sin acceso a datos personales.
+
+
