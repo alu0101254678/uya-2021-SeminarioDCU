@@ -138,10 +138,10 @@ Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios d
   * Priorizar las tareas de acuerdo a su importancia en la nota final y tiempo de entrega.
   * Gestionar el uso del móvil cuando lo deseen.
 * Serían sinceros con la aplicación respecto al tiempo dedicado a estudiar.
-* Factores que tienen en cuenta cuando gestionan su tiempo de estudio:
-* Dificultad de la asignatura.
-* Fechas de entrega.
-* Tiempo necesario para realizar la tarea.
+* **Factores que tienen en cuenta cuando gestionan su tiempo de estudio:**
+  * Dificultad de la asignatura.
+  * Fechas de entrega.
+  * Tiempo necesario para realizar la tarea.
 * **Herramientas que utilizan para estudiar:**
   * Agenda.
   * Calendario.
@@ -166,7 +166,7 @@ Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios d
 * No organizan el tiempo dedicado a cada asignatura.
 * Consideran que sus notas se corresponden con el tiempo de estudio.
 * **Uso de la aplicación web:** nada o poco.
-* Nunca le gustaría que la aplicación gestione el uso del móvil.
+* Nunca les gustaría que la aplicación gestione el uso del móvil.
 * Si utilizaran una aplicación web de este tipo les gustaría que fuese intuitiva.
 * **Dispositivos más utilizados para estudiar:** móvil y ordenador.
 * **Funcionalidades que incluirían en la aplicación:**
@@ -198,7 +198,7 @@ Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios d
 * **Nivel de distracción al estudiar:** mucho.
 * Siguen un horario de estudio.
 * No gestionan el tiempo de estudio adecuadamente.
-* A veces organiza el tiempo dedicado a cada asignatura.
+* A veces organizan el tiempo dedicado a cada asignatura.
 * No consideran que sus notas se correspondan con el tiempo de estudio.
 * Les gustaría que la aplicación web gestione el uso del móvil cuando lo deseen.
 * **Uso de la aplicación web:** mucho o bastante.
@@ -210,8 +210,8 @@ Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios d
 * Serían sinceros con la aplicación respecto al tiempo dedicado a estudiar.
 * **Factores que tienen en cuenta cuando gestionan su tiempo de estudio:**
     * Complejidad de la asignatura.
-* Proximidad de las entregas.
-* Tiempo necesario para realizar la tarea.
+    * Proximidad de las entregas.
+    * Tiempo necesario para realizar la tarea.
 * **Herramientas que utilizan para estudiar:**
     * Agenda.
     * Google Calendar.
@@ -222,6 +222,8 @@ Aquí podemos ver los perfiles de usuario que nos permite agrupar los usuarios d
     * Ver series.
 
 ### Personajes:
+
+A partir de los perfiles de usuarios hemos concretado cada uno de ellos en un personaje, los cuales se muestran a continuación:
 
 **Personaje 1:**
 
