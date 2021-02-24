@@ -1,3 +1,13 @@
+**Autores:**
+
+  **Daniel Álvarez Medina (alu0101216126)**
+  
+  **Dayana Armas Alonso (alu0101228020)**
+  
+  **Alberto Mendoza Rodríguez (alu0101217741)**
+  
+  **Yago Pérez Molanes (alu0101254678)**
+
 # Seminario DCU
 
 ## 1. Indica en el documento del ejemplo de aplicación del DCU, qué actividades se corresponden con el diagrama de Métodos DCU y en qué fase del diseño se ubica.
