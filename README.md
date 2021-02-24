@@ -18,11 +18,11 @@
 
 ### Definir las tareas que se llevarán a cabo en la fase de investigación y diseño conceptual de la aplicación.
 
-En la **fase de análisis** hemos llevado a cabo una [encuesta](https://forms.gle/gumy9CuDWVTNcYJ6A) y una [entrevista](https://forms.gle/C5hDC73zFMZ4rwrm9) a ponteciales usuarios de la aplicación web con el objetivo de recabar información para el desarrollo de la misma. La encuesta fue completada por 18 personas y la entrevista fue respondida por 16 personas. A continuación, hemos hecho un estudio de los datos obtenidos en ambos **métodos de investigación**. 
+En la **fase de análisis** hemos llevado a cabo una [encuesta](https://forms.gle/gumy9CuDWVTNcYJ6A) y una [entrevista](https://forms.gle/C5hDC73zFMZ4rwrm9) a potenciales usuarios de la aplicación web con el objetivo de recabar información para el desarrollo de la misma. La encuesta fue completada por 18 personas y la entrevista fue respondida por 16 personas. A continuación, hemos hecho un estudio de los datos obtenidos en ambos **métodos de investigación**. 
 
 En la **fase de diseño conceptual** hemos realizado los perfiles de usuario y los personajes a partir de la información recopilada con el objetivo de modelar a los usuarios de nuestra aplicación.
 
-En este momento, se muestra las conclusiones obtenidas a partir del estudio realizado.
+En este momento, se muestran las conclusiones obtenidas a partir del estudio realizado.
 
 **Encuesta a usuarios**
 
@@ -95,7 +95,7 @@ A continuación se muestran las preguntas que hemos realizado y sus correspondie
 * Google Calendar. Es una agenda y calendario electrónico.
 * Google Keep. Permite organizar la información personal a través de notas.
 * Notion. Aplicación para organizar cada semana, programar entregas de las asignaturas y si se han terminado antes de tiempo.
-* Método pomodoro. Herramienta de gestión y organización del tiempo que dedicamos a cada tarea, bien sea a lo largo de la jornada laboral o durante el tiempo que dedicamos al estudio.
+* Método Pomodoro. Herramienta de gestión y organización del tiempo que dedicamos a cada tarea, bien sea a lo largo de la jornada laboral o durante el tiempo que dedicamos al estudio.
 * Lista sin prioridad para visualizar la cantidad de trabajos.
 * Lista con prioridad para establecer un orden en las tareas.
 * Agenda.
